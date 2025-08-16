@@ -1,0 +1,6 @@
+
+The idea and base code is taken from:
+   https://medium.com/@kavinduvsomadasa/axi-dma-in-scatter-gather-mode-e8c088e334e6
+
+** Disclaimer: 
+  Not a new invention or code, a learning attempt combined with experiementation from existing code and further development efforts underway
